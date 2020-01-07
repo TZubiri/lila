@@ -30,9 +30,11 @@
   <string name="joinTheGame">Join the game</string>
   <string name="whitePlays">White to play</string>
   <string name="blackPlays">Black to play</string>
+  <string name="opponentLeftCounter">Your opponent left the game. You will claim victory once your opponent's time runs out. </string>
   <plurals name="opponentLeftCounter">
     <item quantity="one">Your opponent left the game. You can claim victory in %s second.</item>
     <item quantity="other">Your opponent left the game. You can claim victory in %s seconds.</item>
+    
   </plurals>
   <string name="opponentLeftChoices">Your opponent left the game. You can claim victory, call the game a draw, or wait.</string>
   <string name="makeYourOpponentResign">Make your opponent resign</string>
